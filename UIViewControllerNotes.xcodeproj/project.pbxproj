@@ -14,6 +14,7 @@
 		D735C8F91BF2870E00644B58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D735C8F71BF2870E00644B58 /* LaunchScreen.storyboard */; };
 		D735C9041BF2870F00644B58 /* UIViewControllerNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D735C9031BF2870F00644B58 /* UIViewControllerNotesTests.swift */; };
 		D735C90F1BF2870F00644B58 /* UIViewControllerNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D735C90E1BF2870F00644B58 /* UIViewControllerNotesUITests.swift */; };
+		D735C91D1BF2885D00644B58 /* MyFriendsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D735C91C1BF2885D00644B58 /* MyFriendsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D735C90A1BF2870F00644B58 /* UIViewControllerNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIViewControllerNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D735C90E1BF2870F00644B58 /* UIViewControllerNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerNotesUITests.swift; sourceTree = "<group>"; };
 		D735C9101BF2870F00644B58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D735C91C1BF2885D00644B58 /* MyFriendsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyFriendsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				D735C8EE1BF2870E00644B58 /* AppDelegate.swift */,
 				D735C8F01BF2870E00644B58 /* ViewController.swift */,
 				D735C8F21BF2870E00644B58 /* Main.storyboard */,
+				D735C91C1BF2885D00644B58 /* MyFriendsViewController.swift */,
 				D735C8F51BF2870E00644B58 /* Assets.xcassets */,
 				D735C8F71BF2870E00644B58 /* LaunchScreen.storyboard */,
 				D735C8FA1BF2870E00644B58 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				D735C8F11BF2870E00644B58 /* ViewController.swift in Sources */,
 				D735C8EF1BF2870E00644B58 /* AppDelegate.swift in Sources */,
+				D735C91D1BF2885D00644B58 /* MyFriendsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
